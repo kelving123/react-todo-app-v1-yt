@@ -1,4 +1,4 @@
-This is a To-do which built with react which allows a user to input to do list itmes, "cross out" to do list items, update to do list items, and delete to do list items. To do list item background also is multi-colored. 
+This is a To-do list application which was built with react which allows a user to input to do list itmes, "cross out" to do list items, update to do list items, and delete to do list items. To do list item background also is multi-colored. 
 
 
 
