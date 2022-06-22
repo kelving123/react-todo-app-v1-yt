@@ -1,3 +1,13 @@
+This is a To-do which built with react which allows a user to input to do list itmes, "cross out" to do list items, update to do list items, and delete to do list items. To do list item background also is multi-colored. 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
